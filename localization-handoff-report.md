@@ -1,45 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/da686d3d36e5f49d350262e1335267af71ec1b59/articles/active-directory/active-directory-aadconnect-account-summary.md) | HandedOffSuccess | [Details](#3133ce288781c5f31d55129d23e5776ac31d00391)
- [articles\best-practices-background-jobs.md](https://github.com/OpenLocalizationTest/azuretest/blob/29ba02fcddf66c381ad4aa4b63c222ac55440c49/articles/best-practices-background-jobs.md) | HandedOffSuccess | [Details](#f28b31e621466e9c3d155ab832586c91abc388956621)
- [articles\hdinsight\hdinsight-hadoop-giraph-install-linux.md](https://github.com/OpenLocalizationTest/azuretest/blob/29ba02fcddf66c381ad4aa4b63c222ac55440c49/articles/hdinsight/hdinsight-hadoop-giraph-install-linux.md) | HandedOffSuccess | [Details](#98af95b9ade5d594b939fc489047bdcf8fcd409a7852)
+ [articles\machine-learning\machine-learning-algorithm-cheat-sheet.md](https://github.com/OpenLocalizationTest/azuretest/blob/66e9bfa9fa093e95b50955365e8afa422af720a5/articles/machine-learning/machine-learning-algorithm-cheat-sheet.md) | HandedOffSuccess | [Details](#a96586d9cc02c160c65a0ea59b4712cedf3deed78540)
 
 ## Item Details
-##### <a name='3133ce288781c5f31d55129d23e5776ac31d00391'></a> Source: [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/da686d3d36e5f49d350262e1335267af71ec1b59/articles/active-directory/active-directory-aadconnect-account-summary.md)
+##### <a name='a96586d9cc02c160c65a0ea59b4712cedf3deed78540'></a> Source: [articles\machine-learning\machine-learning-algorithm-cheat-sheet.md](https://github.com/OpenLocalizationTest/azuretest/blob/66e9bfa9fa093e95b50955365e8afa422af720a5/articles/machine-learning/machine-learning-algorithm-cheat-sheet.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.ru-ru.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/aa7918fc11ce2f9e521eb4e097648d3958c7b485/ol-handoff/OpenLocalizationTest/azuretest.ru-ru/master/high/active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.ru-ru.xlf)
-* Handoff Datetime: 2016-03-10 01:17:36
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f28b31e621466e9c3d155ab832586c91abc388956621'></a> Source: [articles\best-practices-background-jobs.md](https://github.com/OpenLocalizationTest/azuretest/blob/29ba02fcddf66c381ad4aa4b63c222ac55440c49/articles/best-practices-background-jobs.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [best-practices-background-jobs.0674fe1eed9cd000af82408223af16dbe698efc5.ru-ru.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/aa7918fc11ce2f9e521eb4e097648d3958c7b485/ol-handoff/OpenLocalizationTest/azuretest.ru-ru/master/ht/best-practices-background-jobs.0674fe1eed9cd000af82408223af16dbe698efc5.ru-ru.xlf)
-* Handoff Datetime: 2016-03-10 01:17:36
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='98af95b9ade5d594b939fc489047bdcf8fcd409a7852'></a> Source: [articles\hdinsight\hdinsight-hadoop-giraph-install-linux.md](https://github.com/OpenLocalizationTest/azuretest/blob/29ba02fcddf66c381ad4aa4b63c222ac55440c49/articles/hdinsight/hdinsight-hadoop-giraph-install-linux.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [hdinsight-hadoop-giraph-install-linux.625566f5157f97022631f554541132ba7d6d9ed9.ru-ru.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/aa7918fc11ce2f9e521eb4e097648d3958c7b485/ol-handoff/OpenLocalizationTest/azuretest.ru-ru/master/ht/hdinsight-hadoop-giraph-install-linux.625566f5157f97022631f554541132ba7d6d9ed9.ru-ru.xlf)
-* Handoff Datetime: 2016-03-10 01:17:36
+* Handoff File: [machine-learning-algorithm-cheat-sheet.b74ec79f7751871e9b87bba92483bce7869f8b26.ru-ru.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/f982f3fb82cb66a0d784d9b9a098d0968f4b2c29/ol-handoff/OpenLocalizationTest/azuretest.ru-ru/master/ht/machine-learning-algorithm-cheat-sheet.b74ec79f7751871e9b87bba92483bce7869f8b26.ru-ru.xlf)
+* Handoff Datetime: 2016-03-10 05:06:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
